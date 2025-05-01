@@ -2,13 +2,3 @@ title: Bot Documents
 description: >
   Privacy policy and ToS for Hades' Star Manager
 theme: jekyll-theme-slate
-
-sidebar:
-  title: "Contents"
-  nav:
-    - title: "Home"
-      url: /
-    - title: "Hades' Star ELO Privacy Policy"
-      url: /privacy.md
-    - title: "Hades' Star ELO Terms of Service"
-      url: /tos.md
